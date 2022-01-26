@@ -24,4 +24,6 @@ https://www.frontendmentor.io/
 
 ---
 
-https://media.giphy.com/media/S7QyHS8EOjLGSDRAyF/giphy.gif
+
+![ Alt text](https://media.giphy.com/media/S7QyHS8EOjLGSDRAyF/giphy.gif)
+
