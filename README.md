@@ -22,7 +22,7 @@ The result is almost identical to the one on the site, except for a few things..
 
 https://www.frontendmentor.io/
 
----
+
 
 
 ![ Alt text](https://media.giphy.com/media/S7QyHS8EOjLGSDRAyF/giphy.gif)
