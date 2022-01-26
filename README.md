@@ -1,6 +1,7 @@
 # Loop-studio-forntend-mentor
 ---
-# *Languages*
+# *Languages* :alien:
+
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -8,4 +9,10 @@
 ---
 Here is an exercise from Frontend mentor. 
 Very nice design and not too complicated if you want to start coding :smirk:
+
+**Thank you to FRONTEND MENTOR :heart: for these additional exercises that allow me to improve every day**
+
+---
+
+https://www.frontendmentor.io/
 
