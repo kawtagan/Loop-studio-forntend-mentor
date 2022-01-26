@@ -24,5 +24,4 @@ https://www.frontendmentor.io/
 
 ---
 
-<iframe src="https://giphy.com/embed/Mab0KOwgfcmrPQpxhV" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/slickbiz-slick-business-waaaaaaah-Mab0KOwgfcmrPQpxhV">via GIPHY</a></p>
-
+https://media.giphy.com/media/S7QyHS8EOjLGSDRAyF/giphy.gif
